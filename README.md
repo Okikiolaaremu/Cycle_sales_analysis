@@ -68,22 +68,13 @@ WHERE
 GROUP BY Product_category_name;
 ## Data Tools
 The dataset was analysed using the MySQL workbench, where the dataset was manipulated, cleaned, and explored to infer meaning decision making process
-- [MySQL workbook] (https://github.com/user-attachments/assets/5d3260e7-df88-4376-bc99-9b7bf711a240)
-
-
- 
- 
-
-
-
- 
+- [MySQL workbench 1](https://github.com/user-attachments/assets/722eaaad-c4c4-4806-addf-53d3d8dc8e8d)
+- [Mysql workbench 2](https://github.com/user-attachments/assets/59f5de39-c42c-4aa5-b661-9d4db9368201)
+- [Mysql workbench 3](https://github.com/user-attachments/assets/2a45753d-6166-4614-9242-70c1edeb5eab)
 ## Data Visualization
 This data was visualized with the aid of Business intelligence tool which is Power-BI
-###Power_BI 
- 
-
-
-
+### Power_BI visualization
+ [cycle_sales_analysis_power bi presentation](https://github.com/user-attachments/assets/a6f630d9-39df-4ad5-89b9-e3a262c5fff9)
 ## Data Insights
 - It was discovered that products (ebike and racing bike) top the most expensive products.
 - There were only 4 products under the Mountain-bike category.
